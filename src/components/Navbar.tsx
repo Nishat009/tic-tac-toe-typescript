@@ -8,7 +8,6 @@ export default function Navbar() {
         <h1 className="text-white text-2xl font-bold">Tic-Tac-Toe</h1>
         <div className="space-x-4">
           <Link href="/" className="text-white hover:text-gray-300">Player Setup</Link>
-          <Link href="/game" className="text-white hover:text-gray-300">Game</Link>
           <Link href="/leaderboard" className="text-white hover:text-gray-300">Leaderboard</Link>
         </div>
       </div>
